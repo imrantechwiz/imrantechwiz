@@ -49,10 +49,10 @@
  </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Iamtripathisatyam&show_icons=true&theme=dracula" alt="Iamtripathisatyam" />
+<img src="https://github-readme-stats.vercel.app/api?username=imrantechwiz&show_icons=true&theme=dracula" alt="imrantechwiz" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamtripathisatyam&theme=dracula&layout=compact" alt="Iamtripathisatyam" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrantechwiz&theme=dracula&layout=compact" alt="imrantechwiz" />
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Iamtripathisatyam" />
