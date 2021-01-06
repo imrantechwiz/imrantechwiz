@@ -9,14 +9,14 @@
  </p>
       
 ### <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"><𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm an Enthusiastic Learner from INDIA<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="40px"><h1/>
-## <h3 align="center">I'm a 2nd Year CSE Student, Programmer, Designer, Motivator!<h3/>
- - ✌️ Currently Pursuing *B.Tech From PSIT Kanpur*
+## <h3 align="center">I'm a 2nd Year CSE Student, Programmer, Quizzer, Motivator!<h3/>
+ - ✌️ Currently Pursuing *B.Tech From Lovely Professional University*
 - 🔭 *I’m Currently Working on :*
 - [x] ![](https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python&logoColor=yellow)  
 - [x] ![](https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&style=social&logo=canva&logoColor=informational)
 - [x] ![](https://img.shields.io/badge/MICROSOFT-WORD-blue.svg?label=MICROSOFT&style=social&logo=microsoft-word&logoColor=blue)
 - [x] ![](https://img.shields.io/badge/DATA-STRUCTURES-9cf.svg?label=DATA&style=social&logo=GraphQL&logoColor=red)
-- ✔️ Fun fact : I love *`Listening to Music and Doing Yoga!`*
+- ✔️ Fun fact : I love *`Listening to Music and Reading Articles!`*
 - 🎯 Future Goal : *Become Expert in :* 
 ### ![](https://img.shields.io/badge/PYTHON-yellow.svg?&style=social&logo=python&logoColor=yellow) ![](https://img.shields.io/badge/DJANGO-yellow.svg?&style=social&logo=Django&logoColor=orange) ![](https://img.shields.io/badge/FLASK-blue.svg?&style=social&logo=Flask&logoColor=red) ![](https://img.shields.io/badge/DS&ALGO-9cf.svg?&style=social&logo=Treehouse&logoColor=success) ![](https://img.shields.io/badge/APP_DESIGNING-9cf.svg?&style=social&logo=Android&logoColor=critical) ![](https://img.shields.io/badge/DART-9cf.svg?&style=social&logo=Dart&logoColor=black) ![](https://img.shields.io/badge/FLUTTER-9cf.svg?&style=social&logo=Flutter&logoColor=blue)<br/>
 
@@ -24,7 +24,7 @@
  <body>
     <div class="img1">
      <p align='center'>
- <a href="https://www.linkedin.com/in/Satyam-Tripathi-536b561b1" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="59" alt="Linkedin"></a> <a href="mailto:thingstesting2020@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" alt="Email"></a><a href="https://t.me/Iamtripathisatyam" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width=60></a>  <a href="https://www.instagram.com/geeky_satyam" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" width="58"></a>
+ <a href="https://www.linkedin.com/in/imran-khan-991324188/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="59" alt="Linkedin"></a> <a href="mailto:thingstesting2020@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" alt="Email"></a><a href="https://t.me/Iamtripathisatyam" target="_blank"> <a href="https://www.instagram.com/immrwnnn_227/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" width="58"></a>
   <p/>
 </div>
 </body>
