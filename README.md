@@ -2,7 +2,7 @@
 ![How](https://forthebadge.com/images/badges/built-by-developers.svg)  <br/>
  ![Visitor Count](https://profile-counter.glitch.me/{imrantechwiz}/count.svg) <br/>
  <a href="https://dev.to/iamtripathisatyam">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Satyam Tripathi's DEV Profile" width="50">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Imran Khan's DEV Profile" width="50">
 </a>
 <p align="center">
 <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/github.gif" width="180px">
@@ -24,7 +24,7 @@
  <body>
     <div class="img1">
      <p align='center'>
- <a href="https://www.linkedin.com/in/imran-khan-991324188/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="59" alt="Linkedin"></a> <a href="mailto:thingstesting2020@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" alt="Email"></a><a href="https://t.me/Iamtripathisatyam" target="_blank"> <a href="https://www.instagram.com/immrwnnn_227/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" width="58"></a>
+ <a href="https://www.linkedin.com/in/imran-khan-991324188/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="59" alt="Linkedin"></a> <a href="imran.techwiz@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" alt="Email"></a><a href="https://t.me/Iamtripathisatyam" target="_blank"> <a href="https://www.instagram.com/immrwnnn_227/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" width="58"></a>
   <p/>
 </div>
 </body>
