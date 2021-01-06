@@ -1,4 +1,4 @@
-![Student|Programmer|Motivator|Designer](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Skills.png)
+![Student|Programmer|Motivator|Designer]()
 ![How](https://forthebadge.com/images/badges/built-by-developers.svg)  <br/>
  ![Visitor Count](https://profile-counter.glitch.me/{imrantechwiz}/count.svg) <br/>
  <a href="https://dev.to/iamtripathisatyam">
