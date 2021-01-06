@@ -1,7 +1,7 @@
 ![Student|Programmer|Motivator|Designer]()
 ![How](https://forthebadge.com/images/badges/built-by-developers.svg)  <br/>
  ![Visitor Count](https://profile-counter.glitch.me/{imrantechwiz}/count.svg) <br/>
- <a href="https://dev.to/iamtripathisatyam">
+ <a href="https://dev.to/imrantechwiz">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Imran Khan's DEV Profile" width="50">
 </a>
 <p align="center">
