@@ -4,20 +4,16 @@
  <a href="https://dev.to/imrantechwiz">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Imran Khan's DEV Profile" width="50">
 </a>
-<p align="center">
-<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/github.gif" width="180px">
- </p>
+ 
+ <img align = "center" alt="gif" src="https://github.com/ankitaggarwal23/ankitaggarwal23/blob/main/images/1584024060.gif" width="900" height="500" />
       
 ### <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"><𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm an Enthusiastic Learner from INDIA<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="40px"><h1/>
 ## <h3 align="center">I'm a 2nd Year CSE Student, Programmer, Quizzer, Motivator!<h3/>
  - ✌️ Currently Pursuing *B.Tech From Lovely Professional University*
-- 🔭 *I’m Currently Working on :*
-- [x] ![](https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python&logoColor=yellow)  
-- [x] ![](https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&style=social&logo=canva&logoColor=informational)
-- [x] ![](https://img.shields.io/badge/MICROSOFT-WORD-blue.svg?label=MICROSOFT&style=social&logo=microsoft-word&logoColor=blue)
-- [x] ![](https://img.shields.io/badge/DATA-STRUCTURES-9cf.svg?label=DATA&style=social&logo=GraphQL&logoColor=red)
+
 - ✔️ Fun fact : I love *`Listening to Music and Reading Articles!`*
-- 🎯 Future Goal : *Become Expert in :* 
+- 🎯 Future Goal : *Become Expert in : Web Development and Competative Programming. 
+- 
 ### ![](https://img.shields.io/badge/PYTHON-yellow.svg?&style=social&logo=python&logoColor=yellow) ![](https://img.shields.io/badge/DJANGO-yellow.svg?&style=social&logo=Django&logoColor=orange) ![](https://img.shields.io/badge/FLASK-blue.svg?&style=social&logo=Flask&logoColor=red) ![](https://img.shields.io/badge/DS&ALGO-9cf.svg?&style=social&logo=Treehouse&logoColor=success) ![](https://img.shields.io/badge/APP_DESIGNING-9cf.svg?&style=social&logo=Android&logoColor=critical) ![](https://img.shields.io/badge/DART-9cf.svg?&style=social&logo=Dart&logoColor=black) ![](https://img.shields.io/badge/FLUTTER-9cf.svg?&style=social&logo=Flutter&logoColor=blue)<br/>
 
  ### <h1 align="center">Feel Free to *`Contact Me`* : <h1/>
@@ -32,19 +28,9 @@
     <p align="center">
 <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Bar.gif" width="100px" height="100px">
  </p>
- <h1 align="center">Languages and Tools:<h1/>
- <p align="center">
-<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/python-icon.png">
-<img src="https://icons.iconarchive.com/icons/mattahan/umicons/64/Letter-C-icon.png">
-<img src="https://icons.iconarchive.com/icons/graphics-vibe/developer/64/html-5-icon.png">
-<img src="https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/64/Networking-icon.png">
-<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/pycharm-icon.png">
-<img src="https://icons.iconarchive.com/icons/benjigarner/softdimension/64/MS-Word-2-icon.png">
-<img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/64/Dev-icon.png">
-<img src="https://icons.iconarchive.com/icons/rud3boy/mac-apps/64/ps-icon.png">
-<img src="https://icons.iconarchive.com/icons/froyoshark/enkel/64/iTerm-icon.png">
-<img src="https://icons.iconarchive.com/icons/hopstarter/mac-folders/64/Documents-icon.png" alt=Iamtripathisatyam />
-<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/visual-studio-code-icon.png">
+ ## Languages and Tools ⚙
+<p align="left"> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  </a> <a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a> <img width="40" height="40" src="images\googlecloud-original.svg"/> </a> <a> <img alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> </a> <a> <img alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a> <a> <img  width="40" height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a> <a> <img width="40" height="40" src="https://img.icons8.com/color/48/000000/golang.png"/> </a></p>
+
 
  </p>
 
