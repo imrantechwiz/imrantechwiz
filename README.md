@@ -10,10 +10,10 @@
 ### <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"><𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm an Enthusiastic Learner from INDIA<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="40px"><h1/>
  
 ## <h3 align="center">I'm a 2nd Year CSE Student, Programmer, Quizzer, Motivator!<h3/>
- - ✌️ Currently Pursuing *B.Tech From Lovely Professional University*
+ - ✌️ Currently Pursuing *`B.Tech From Lovely Professional University`*
 
-- ✔️ Fun fact : I love *`Listening to Music and Reading Articles!`*
-- 🎯 Future Goal : *Become Expert in : Web Development and Competative Programming.  
+- ✔️ Fun fact :*` I love Listening to Music and Reading Articles!`*
+- 🎯 Future Goal : *`Become Expert in : Web Development and Competative Programming.  `*
 
  ### <h1 align="center">Feel Free to *`Contact Me`* : <h1/>
  <body>
