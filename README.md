@@ -25,7 +25,7 @@
 </body>
    <br/>
     <p align="center">
-<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Bar.gif" width="100px" height="100px">
+
     
     
     
