@@ -5,7 +5,7 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Imran Khan's DEV Profile" width="50">
 </a>
  
- <img align = "center" alt="gif" src="https://github.com/imrantechwiz/imrantechwiz/1584024060 (1).gif" width="900" height="500" />
+ <img align = "center" alt="gif" src="https://github.com/ankitaggarwal23/ankitaggarwal23/blob/main/images/1584024060.gif" width="900" height="500" />
       
 ### <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"><𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm an Enthusiastic Learner from INDIA<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="40px"><h1/>
  
