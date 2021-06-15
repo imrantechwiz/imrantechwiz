@@ -54,10 +54,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=imrantechwiz&show_icons=true&theme=dracula" alt="imrantechwiz" />
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
-
  <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrantechwiz&theme=dracula&layout=compact" alt="imrantechwiz" />
 </p>
