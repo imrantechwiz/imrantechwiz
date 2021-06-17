@@ -50,10 +50,31 @@
 
  </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=imrantechwiz&show_icons=true&theme=dracula" alt="imrantechwiz" />
 </p>
 
  <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrantechwiz&theme=dracula&layout=compact" alt="imrantechwiz" />
-</p>
+</p> -->
+
+## 📊 My Github stats
+
+<details>
+  <summary>:chart_with_upwards_trend:GitHub Profile Stats</summary>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=imrantechwiz&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrantechwiz&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
+  <br/>
+  <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
+</details>
+
+<details>
+   <summary>:chart_with_upwards_trend: Contribution Graph </summary>
+   <br/>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Imran's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imrantechwiz&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</details>
+
+
+
+
