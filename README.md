@@ -9,10 +9,10 @@
       
 ### <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"><𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm an Enthusiastic Learner from INDIA<h1/>
  
-## <h3 align="center">I'm a 2nd Year CSE Student, Programmer, Quizzer, Motivator!<h3/>
+## <h3 align="center">I'm a 3rd Year CSE Student, Programmer, Quizzer, Motivator!<h3/>
  - ✌️ Currently Pursuing *`B.Tech From Lovely Professional University`*
 
-- ✔️ Fun fact :*` I love Listening to Music and Reading Articles!`*
+- ✔️ Fun fact :*` I love Listening to Music, Playing Chess & Reading Articles!`*
 - 🎯 Future Goal : *`Become Expert in : Web Development and Competative Programming.  `*
 
  ### <h1 align="center">Feel Free to Contact Me : <h1/> <p align="center"> <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
