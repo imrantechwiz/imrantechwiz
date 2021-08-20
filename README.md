@@ -21,7 +21,7 @@
  <body>
     <div class="img1">
      <p align='center'>
- <a href="https://www.linkedin.com/in/imran-khan-991324188/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="59" alt="Linkedin"></a> <a href="imran.techwiz@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" alt="Email"></a><a href="https://www.instagram.com/immrwnnn_227/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" width="58"></a>
+ <a href="https://www.linkedin.com/in/imran-khan-991324188/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="59" alt="Linkedin"></a> <a href="mailto:imran.techwiz@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" alt="Email"></a><a href="https://www.instagram.com/imtechwiz_11011110/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" width="58"></a>
   <p/>
 </div>
 </body>
