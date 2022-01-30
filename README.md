@@ -79,6 +79,7 @@
    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Imran's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imrantechwiz&theme=react-dark" /></a>
 
 
-
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 
 
