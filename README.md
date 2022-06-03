@@ -12,7 +12,7 @@
  
  <img align = "center" alt="gif" src="https://github.com/ankitaggarwal23/ankitaggarwal23/blob/main/images/1584024060.gif" width="900" height="500" />
       
-### <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"><𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm an Enthusiastic Learner from INDIA<h1/>
+### <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height="40"><𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm an Enthusiastic Learner from INDIA<h1/>
  
 ## <h3 align="center">I'm a 3rd Year CSE Student, Programmer, Quizzer, Motivator!<h3/>
  - ✌️ Currently Pursuing *`B.Tech From Lovely Professional University`*
